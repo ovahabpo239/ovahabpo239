@@ -3,7 +3,7 @@
 ML Engineer & Backend Developer passionate about building intelligent systems and scalable microservices. I bridge the gap between Data Science and production-grade software.
 
 - 🔭 I’m currently working on **NLP pipelines for HR automation**.
-- 🌱 I’m currently deepening my knowledge in **Deep Learning (PyTorch)** and **German language**.
+- 🌱 I’m currently deepening my knowledge in **Deep Learning (PyTorch)** and **Software Development**.
 - 🎓 Student at **Slovak University of Technology**.
 
 ### 💻 Technologies
