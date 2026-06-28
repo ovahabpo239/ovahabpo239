@@ -1,4 +1,4 @@
- # Oleksandr Vahabov
+ # Alexander Vahabov
 
 **AI / ML Engineer** · Bratislava, Slovakia
 
@@ -8,10 +8,10 @@ I build things at the intersection of language models and production systems —
 
 ### What I work on
 
-- **LLM & RAG** — fine-tuning, retrieval pipelines, domain adaptation
+- **LLM & RAG** — NER, fine-tuning, retrieval pipelines, domain adaptation
 - **Multi-agent systems** — LangGraph orchestration, prompt engineering, autonomous workflows
-- **Computer vision** — NER, multi-label classification, OCR document processing
-- **Full-stack & infrastructure** — FastAPI · Next.js · Spring Boot · Docker · Azure · AWS
+- **Computer vision** — multi-label classification, OCR document processing
+- **Full-stack & infrastructure** — Docker · Azure · AWS · FastAPI · Next.js · React· Spring Boot
 
 ---
 
@@ -31,7 +31,7 @@ I build things at the intersection of language models and production systems —
 
 ### Languages
 
-English (C1) · Slovak (B2) · German (B1) · Ukrainian & Russian (Fluent)
+English (C1) · German (B2) · Slovak (B2) · Ukrainian & Russian (Fluent)
 
 ---
 
