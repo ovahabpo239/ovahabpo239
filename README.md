@@ -32,7 +32,3 @@ I build things at the intersection of language models and production systems —
 ### Languages
 
 English (C1) · German (B2) · Slovak (B2) · Ukrainian & Russian (Fluent)
-
----
-
-*alexandervahabov@gmail.com*
