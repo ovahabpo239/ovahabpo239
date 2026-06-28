@@ -1,16 +1,38 @@
-### Hi, I'm Oleksandr! 👨‍💻
+ # Oleksandr Vahabov
 
-ML Engineer & Backend Developer passionate about building intelligent systems and scalable microservices. I bridge the gap between Data Science and production-grade software.
+**AI / ML Engineer** · Bratislava, Slovakia
 
-- 🔭 I’m currently working on **NLP pipelines for HR automation**.
-- 🌱 I’m currently deepening my knowledge in **Deep Learning (PyTorch)** and **Software Development**.
-- 🎓 Student at **Slovak University of Technology**.
+I build things at the intersection of language models and production systems — fine-tuning LLMs, designing multi-agent pipelines, and making sure ML actually ships.
 
-### 💻 Technologies
+---
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+### What I work on
 
+- **LLM & RAG** — fine-tuning, retrieval pipelines, domain adaptation
+- **Multi-agent systems** — LangGraph orchestration, prompt engineering, autonomous workflows
+- **Computer vision** — NER, multi-label classification, OCR document processing
+- **Full-stack & infrastructure** — FastAPI · Next.js · Spring Boot · Docker · Azure · AWS
+
+---
+
+### Currently
+
+- 🎓 BSc Computer Science @ Slovak University of Technology *(top 8%, merit scholarship)*
+- 💼 Data Developer @ Adastra — ETL pipelines & AI-assisted data transformation
+- 📝 Bachelor thesis: *Efficient Legal AI — Quantized LLMs with Fine-Tuning*
+
+---
+
+### Stack
+
+`Python` `PyTorch` `LangGraph` `SQL` `Java` `TypeScript` `Docker` `Azure` `AWS`
+
+---
+
+### Languages
+
+English (C1) · Slovak (B2) · German (B1) · Ukrainian & Russian (Fluent)
+
+---
+
+*alexandervahabov@gmail.com*
